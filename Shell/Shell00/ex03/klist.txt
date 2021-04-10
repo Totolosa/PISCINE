@@ -1,0 +1,5 @@
+Credentials cache: API:3EC8B180-1271-4C8B-9989-F07D8366DA9D
+        Principal: tdayde@42LYON.FR
+
+  Issued                Expires               Principal
+Aug 10 22:42:25 2020  Aug 11 08:42:25 2020  krbtgt/42LYON.FR@42LYON.FR
